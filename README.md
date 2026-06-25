@@ -42,8 +42,3 @@ All services were verified on the live domain-joined Windows 10 client:
 ipconfig /all confirmed DHCP server (192.168.1.120) and DNS resolution.
 User ashraf@network.local successfully authenticated.
 Access restrictions (CMD, PS, Wallpaper) actively blocked with standard Windows restriction dialogs.
-🚀 How to Use This Repo
-Clone the repository: git clone https://github.com/YOUR_USERNAME/Windows-Server-Enterprise-Lab.git
-Review the Diagrams folder to understand the network layout.
-Check the Screenshots folder for visual proof of configurations.
-Use the scripts in PowerShell-Scripts to rapidly deploy a similar environment in your own VMware lab (Run PowerShell as Administrator on the DC).
